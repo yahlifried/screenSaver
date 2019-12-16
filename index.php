@@ -18,7 +18,7 @@
 			line-height: 100vh;
 			color: #ccff33;
 			animation:colorChange 10s infinite alternate;
-			text-shadow:0px 0px 100px #ccff33;
+			text-shadow:0px 0px 150px #ccff33;
 			user-select: none; 
 		}
 		.subText{
@@ -27,7 +27,7 @@
 			font-size: 30pt;
 			color: #ccff33;
 			animation:colorChange 10s infinite alternate;
-			text-shadow: 0px 0px 100px #ccff33;
+			text-shadow: 0px 0px 150px #ccff33;
 			user-select: none;
 			text-align: center;
 			width: 100%;
@@ -39,83 +39,83 @@
 		@keyframes colorChange{
 			5%{
 				color: #ffcc00;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			10%{
 				color: #ff9933;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			15%{
 				color: #ff6600;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			20%{
 				color: #ff5050;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			25%{
 				color: #ff0066;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			30%{
 				color: #ff3399;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			35%{
 				color: #ff00ff;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			40%{
 				color: #cc33ff;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			45%{
 				color: #9966ff;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			50%{
 				color: #6666ff;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			55%{
 				color: #3366ff;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			60%{
 				color: #0066ff;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			65%{
 				color: #0099ff;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			70%{
 				color: #00ccff;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			75%{
 				color: #33cccc;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			80%{
 				color: #00ffcc;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			85%{
 				color: #00ff99;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			90%{
 				color: #00ff00;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			95%{
 				color: #33cc33;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 			100%{
 				color: #009900;
-				text-shadow:0px 0px 100px #ffcc00;
+				text-shadow:0px 0px 150px #ffcc00;
 			}
 		}
 	</style>
