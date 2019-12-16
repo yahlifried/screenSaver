@@ -39,7 +39,7 @@
 		@keyframes colorChange{
 			5%{
 				color: #ffcc00;
-				text-shadow: #ffcc00;
+				text-shadow:0px 0px 100px #ffcc00;
 			}
 			10%{
 				color: #ff9933;
