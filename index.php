@@ -123,9 +123,9 @@
 </head>
 <body>
 	<div id="div">
-	hey.
+	fuck you.
 	</div>
-	<span class="subText">this is my macbook air.</span>
+	<span class="subText">but in a good way.</span>
 	<script type="text/javascript">
 		/*let div = document.getElementById('div');
 		div.addEventListener("dblclick",() => {
